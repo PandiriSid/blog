@@ -6,9 +6,9 @@ baseurl:           "/blog"
 url:               "https://pandirisid.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  PandiriSid
+github_username:   PandiriSid
+facebook_username: PandiriSiddhardha
 
 # Build settings
 markdown:          kramdown
